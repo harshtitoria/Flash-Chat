@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256186439541",
+    "project_id": "flashchat-d3695",
+    "storage_bucket": "flashchat-d3695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256186439541:android:a4af02d4b44a330515653c",
+        "android_client_info": {
+          "package_name": "co.harshtitoria.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256186439541-gtdn67qptrp7hnnhr1vsvl9p6dhmsfk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlxLHniANHovkuEOVr-0YqRrnVDHPQZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256186439541-gtdn67qptrp7hnnhr1vsvl9p6dhmsfk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
